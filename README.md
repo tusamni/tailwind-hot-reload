@@ -8,4 +8,9 @@ To get started, run:
 npm run watch
 ```
 
-If you need to add any styles, add them to the /src/css/tailwind.css file.
+Then visit:
+```
+http://localhost:3000/
+```
+
+If you need to add any styles, either add the Tailwind classes inline, or add them to the /src/css/tailwind.css file.
