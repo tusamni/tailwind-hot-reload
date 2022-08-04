@@ -5,7 +5,7 @@ I needed a simple way of quickly spooling up a hot reloading server that had Tai
 To get started, run:
 
 ```
-npm run watch
+npm run dev
 ```
 
 Then visit:
